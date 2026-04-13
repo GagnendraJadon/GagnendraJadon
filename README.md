@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on<br>Full-stack web projects and improving DSA skills<br><br>I’m looking to collaborate on<br>Open-source and web development projects<br><br> I’m looking for help with<br>Advanced DSA and system design<br><br>I’m currently learning<br>React, Node.js, and backend development<br><br>💬Ask me about<br>C++, DSA, and basic web development<br><br>Fun fact<br>I like solving coding problems and working out
+• I’m currently working on<br>Full-stack web projects and improving DSA skills<br><br>• I’m looking to collaborate on<br>Open-source and web development projects<br><br>• I’m looking for help with<br>Advanced DSA and system design<br><br>• I’m currently learning<br>React, Node.js, and backend development<br><br>• Ask me about<br>C++, DSA, and basic web development<br><br>• Fun fact<br>I like solving coding problems and working out
 
 
 ##  Socials:
